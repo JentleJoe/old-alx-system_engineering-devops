@@ -1,7 +1,8 @@
-script that switches current user to the user betty
-script that prints the effective username of the current user
-script that prints all the groups the current user is part of
-script that changes the owner of the file hello to the user betty
-script that creates an empty file called hello
-script that adds execute permission to the owner of the file hello
-script that adds execute permission to the owner and the group owner
+Script that switches current user to the user betty
+Script that prints the effective username of the current user
+Script that prints all the groups the current user is part of
+Script that changes the owner of the file hello to the user betty
+Script that creates an empty file called hello
+Script that adds execute permission to the owner of the file hello
+Script that adds execute permission to the owner and the group owner
+Script that adds execution permission to hello file for all
