@@ -11,3 +11,4 @@ Executable script that deletes a subdirectory in /tmp/
 Executable script that changes working directory to the a one
 Executable script that lists all hidden and unhidden files in the current, parent and /boot directory in long format
 Executable script that prints a type of file in /tmp/ directory
+Executable script with a symbolic link to /bin/ls
