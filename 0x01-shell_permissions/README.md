@@ -7,3 +7,4 @@ Script that adds execute permission to the owner of the file hello
 Script that adds execute permission to the owner and the group owner
 Script that adds execution permission to hello file for all
 Script that strips all rights from the user and group and gives all rights to others
+Script that changes the permission of the file to some specific criteria
