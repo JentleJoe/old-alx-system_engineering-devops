@@ -6,3 +6,4 @@ Executable script that displays current directory contents including hidden file
 Executable script that creates a directory in /tmp/ folder
 Executable script that displays current directory contents, including hidden files and user and group IDs in long format
 Executable script that moves a file from /tmp/ to a subdirectory in /tmp/
+Executable script that deletes a file in /tmp/ subdirectory
