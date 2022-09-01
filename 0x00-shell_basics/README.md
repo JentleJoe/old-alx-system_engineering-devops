@@ -12,3 +12,4 @@ Executable script that changes working directory to the a one
 Executable script that lists all hidden and unhidden files in the current, parent and /boot directory in long format
 Executable script that prints a type of file in /tmp/ directory
 Executable script with a symbolic link to /bin/ls
+Executable script that that copies all HTML files inexistent in the parent directory or newer  in versions, into the parent directory
