@@ -5,3 +5,4 @@ Executable script that displays a current directory contents in a long format
 Executable script that displays current directory contents including hidden files in long format
 Executable script that creates a directory in /tmp/ folder
 Executable script that displays current directory contents, including hidden files and user and group IDs in long format
+Executable script that moves a file from /tmp/ to a subdirectory in /tmp/
