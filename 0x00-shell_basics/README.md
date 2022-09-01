@@ -7,3 +7,5 @@ Executable script that changes the working directory to the user's home director
 Executable script that displays a current directory contents in a long format
 
 Executable script that displays current directory contents including hidden files in long format
+
+Executable script that creates a directory in /tmp/ folder
