@@ -14,3 +14,4 @@ script that creates a directory called my_dir with permissions 751 in the workin
 script that changes the group owner to school for the file hello
 Script to change owner to vincent and group to staff for all files and directories
 Script with embedded links to change the owner and the group of hello file
+script that changes the owner of the file hello to betty only if it is owned by the user guillaume
