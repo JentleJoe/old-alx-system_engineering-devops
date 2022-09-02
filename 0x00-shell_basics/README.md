@@ -15,3 +15,4 @@ Executable script with a symbolic link to /bin/ls
 Executable script that that copies all HTML files inexistent in the parent directory or newer  in versions, into the parent directory
 Executable script that moves all files beginning with an upper case to /tmp/u
 Executable script that removes all backup files (files ending with ~ )
+Executable script that creates directories and their parents together
