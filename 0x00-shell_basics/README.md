@@ -17,3 +17,4 @@ Executable script that moves all files beginning with an upper case to /tmp/u
 Executable script that removes all backup files (files ending with ~ )
 Executable script that creates directories and their parents together
 list all files and directories in heirachy with commas and slash at end of directory names
+Magic file that can be used with the command (file) to detect School data files
