@@ -8,3 +8,4 @@ script that creates a new local variable
 script that creates a new global variable
 script that prints the result of the addition of 128 with the value stored in the environment variable
 script that prints the result of the division of two environmental variables
+script that displays the result of the power of one environmental variable to another
