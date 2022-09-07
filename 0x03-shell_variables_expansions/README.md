@@ -10,3 +10,4 @@ script that prints the result of the addition of 128 with the value stored in th
 script that prints the result of the division of two environmental variables
 script that displays the result of the power of one environmental variable to another
 script that converts a number from base 2 to base 10
+script that prints all possible combinations of two letters, except oo
