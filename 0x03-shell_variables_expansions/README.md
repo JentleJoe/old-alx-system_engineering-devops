@@ -11,3 +11,4 @@ script that prints the result of the division of two environmental variables
 script that displays the result of the power of one environmental variable to another
 script that converts a number from base 2 to base 10
 script that prints all possible combinations of two letters, except oo
+script that prints a number with two decimal places, followed by a new line
