@@ -15,3 +15,4 @@ script that prints a number with two decimal places, followed by a new line
 script that converts a number from base 10 to base 16
 Script that encodes and decodes ASCII text using rot13 encryption
 script that prints every other line from the input, starting with the first line
+script that adds two numbers stored in environment variables WATER and STIR and prints them
